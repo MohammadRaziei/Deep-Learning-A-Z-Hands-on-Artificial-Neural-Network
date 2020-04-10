@@ -1,6 +1,6 @@
 # SuperDataScience Deep learning A-Z course
 
-This repository contains all the projects from [SuperDatascience Deep Learning A-Z Course](https://www.udemy.com/deeplearning) :Hands on Neural Networks with Python
+This repository contains all the projects from [SuperDatascience Deep Learning A-Z](https://www.udemy.com/deeplearning)**[ Course](https://drive.google.com/openid/1dFPqMpOCPswpGc_GFgTW1aovop4Qs8YC)** :Hands on Neural Networks with Python
 
 ## Part 1 - Supervised Deep Learning
 
@@ -19,3 +19,4 @@ This repository contains all the projects from [SuperDatascience Deep Learning A
    - PART 6. *AutoEncoders (AE)*
 
 ## Annex. Data Classification & Preprocessing
+
